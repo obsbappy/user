@@ -1,25 +1,10 @@
 {
-  "users": [
+  "users": 
+  [
     {
       "username": "bappy",
       "password": "1"
-    },
-    {
-      "username": "rahim",
-      "password": "123"
-    },
-    {
-      "username": "karim",
-      "password": "ds1"
-    },
-    {
-      "username": "nila",
-      "password": "1221"
-    },
-    {
-      "username": "sabbir",
-      "password": "s12"
-    }
   ]
 }
+
 
